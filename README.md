@@ -90,10 +90,10 @@ You can save the plot as an image file by uncommenting the following line in the
 
 ## Samples
 
-Below are some sample images/animations generated using the codes in this repository:
+Below is a sample image generated using the codes in this repository:
 
-![Julia Set Image](https://github.com/mathmeetsart/Julia-Set/assets/157393083/4c0f2ebb-ffe6-4a1a-abd0-7790df13a1b0)
-![Julia Set Animation](https://github.com/mathmeetsart/Julia-Set/assets/157393083/e0d421da-2130-46cb-83a1-81bb0e45373a)
+![Julia Set Image](https://github.com/mathmeetsart/Julia-Set/assets/157393083/4ae49de4-857a-448a-8ebf-545bef3b416b)
+
 
 Explore the code, create your own visualizations, and let the beauty of the Julia Set inspire your artistic endeavors!
 <br/><br/>
