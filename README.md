@@ -44,6 +44,20 @@ Explore the code used to generate visualizations of the Julia Set. The code is w
 
 6. The script will generate an animation of the Julia Set and display it in a new window.
 
+### Usage (julia_set_image.py)
+
+1. Clone this repository or download the `julia_set_visualization.py` file.
+2. Make sure you have Python and the required dependencies installed.
+3. Open a terminal or command prompt.
+4. Navigate to the directory containing `julia_set_visualization.py`.
+5. Run the script using the following command:
+
+    ```bash
+    python julia_set_visualization.py
+    ```
+
+6. The script will generate a plot of the Julia Set and display it in a new window.
+
 ### Customization
 
 You can customize the behavior and appearance of the animation by modifying the parameters in the script:
@@ -63,6 +77,14 @@ You can save the animation as a GIF by uncommenting the following line in the sc
 
 ```python
 # anim.save('julia_set_animation.gif', writer='imagemagick', fps=5)
+```
+
+### Saving the Image
+
+You can save the plot as an image file by uncommenting the following line in the script:
+
+```python
+# plt.savefig("julia_set.png", dpi=1200)  # Save the plot as a PNG file with high resolution
 ```
 <br/>
 
