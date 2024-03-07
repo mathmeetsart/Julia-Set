@@ -93,8 +93,7 @@ You can save the plot as an image file by uncommenting the following line in the
 Below are some sample images/animations generated using the codes in this repository:
 
 ![Julia Set Image](https://github.com/mathmeetsart/Julia-Set/assets/157393083/4c0f2ebb-ffe6-4a1a-abd0-7790df13a1b0)
-2. ![Image 2](image2.png)
-3. ![Image 3](image3.png)
+![Julia Set Animation](https://github.com/mathmeetsart/Julia-Set/assets/157393083/e0d421da-2130-46cb-83a1-81bb0e45373a)
 
 Explore the code, create your own visualizations, and let the beauty of the Julia Set inspire your artistic endeavors!
 <br/><br/>
