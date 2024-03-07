@@ -26,8 +26,9 @@ Explore the code used to generate visualizations of the Julia Set. The code is w
 
 ### Requirements
 
-- Python 3.x
+- Python 3.12
 - Matplotlib
+- Numpy
 
 ### Usage (julia_set_animation.py)
 
