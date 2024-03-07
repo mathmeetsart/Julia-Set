@@ -1,20 +1,24 @@
 # Julia Set
 
 Welcome to the Julia Set repository! Explore the fascinating world of fractals and artistic visualization.
+<br/><br/>
 
 ## Description
 
 The Julia Set is a set of complex numbers that exhibits fractal-like behavior when iterated using a simple algorithm. Named after the French mathematician Gaston Julia, the Julia Set showcases intricate patterns and self-similar structures.
 
 For more information, you can refer to the [Wikipedia page](https://en.wikipedia.org/wiki/Julia_set).
+<br/><br/>
 
 ## Visual Appeal and Artistic Representation
 
 The Julia Set's fractal nature and intricate details make it visually captivating. Artists and mathematicians alike are drawn to its complexity, using it as inspiration for various forms of artistic expression, including digital art and sculptures.
+<br/><br/>
 
 ## Applications
 
 Beyond its aesthetic appeal, the Julia Set has practical applications in various fields, including computer graphics, image compression, and signal processing. Its self-similar structure and infinite complexity make it valuable for generating visually appealing patterns and textures.
+<br/><br/>
 
 ## Code
 
@@ -58,10 +62,12 @@ You can save the animation as a GIF by uncommenting the following line in the sc
 
 ```python
 # anim.save('julia_set_animation.gif', writer='imagemagick', fps=5)
-## Sample Images
-ˋˋˋ
+ˋˋˋ 
+<br/><br/>
 
-Below are some sample images generated using the code in this repository:
+## Sample Images
+
+Below are some sample images/animations generated using the codes in this repository:
 
 1. ![Image 1](image1.png)
 2. ![Image 2](image2.png)
