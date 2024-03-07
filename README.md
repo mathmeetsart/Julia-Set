@@ -61,8 +61,8 @@ You can also change the complex number `C` to generate different Julia Sets. Sim
 You can save the animation as a GIF by uncommenting the following line in the script:
 
     ```python
-    # anim.save('julia_set_animation.gif', writer='imagemagick', fps=5)
-    ˋˋˋ 
+anim.save('julia_set_animation.gif', writer='imagemagick', fps=5)
+ˋˋˋ 
 <br/><br/>
 
 ## Sample Images
@@ -74,6 +74,7 @@ Below are some sample images/animations generated using the codes in this reposi
 3. ![Image 3](image3.png)
 
 Explore the code, create your own visualizations, and let the beauty of the Julia Set inspire your artistic endeavors!
+<br/><br/>
 
 ## Contribution Guidelines
 
@@ -83,6 +84,7 @@ Contributions to this project are welcome! If you would like to contribute, plea
 - Make your changes
 - Test your changes thoroughly
 - Submit a pull request
+<br/><br/>
 
 ## Contact Information
 
