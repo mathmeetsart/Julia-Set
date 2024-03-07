@@ -64,6 +64,7 @@ You can save the animation as a GIF by uncommenting the following line in the sc
 ```python
 # anim.save('julia_set_animation.gif', writer='imagemagick', fps=5)
 ```
+<br/>
 
 ## Sample Images
 
