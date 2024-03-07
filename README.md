@@ -88,11 +88,11 @@ You can save the plot as an image file by uncommenting the following line in the
 ```
 <br/>
 
-## Sample Images
+## Samples
 
 Below are some sample images/animations generated using the codes in this repository:
 
-1. ![Image 1](image1.png)
+![Julia Set Image](https://github.com/mathmeetsart/Julia-Set/assets/157393083/4c0f2ebb-ffe6-4a1a-abd0-7790df13a1b0)
 2. ![Image 2](image2.png)
 3. ![Image 3](image3.png)
 
