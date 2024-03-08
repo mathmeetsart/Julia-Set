@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
 
+
 def julia(c, z, max_iter):
     """
     Compute the number of iterations until the Julia sequence escapes or reaches maximum iterations.
@@ -19,6 +20,7 @@ def julia(c, z, max_iter):
             return n
         z = z**2 + c
     return max_iter
+
 
 def generate_frame(frame, c, colormap):
     """
@@ -80,5 +82,9 @@ C = -0.8 + 0.156j
 fig = plt.figure(figsize=(8, 8))
 # Create the animation object
 anim = animation.FuncAnimation(fig, generate_frame, fargs=(C, CMAP), frames=ITERATIONS, interval=SPEED, repeat=False)
+
+# Save the animation as a GIF
+#anim.save('julia_set_max_iter_variation.gif', writer='imagemagick', fps=5)
+
 # Display the animation
 plt.show()
